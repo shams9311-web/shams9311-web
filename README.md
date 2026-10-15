@@ -45,7 +45,7 @@ const shams = {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="languages" />
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=7dd3fc)
 
 **Operating Systems & Security Tools**
 
@@ -53,10 +53,10 @@ const shams = {
 
 <br/>
 
-![Nmap](https://img.shields.io/badge/Nmap-0f172a?style=for-the-badge&labelColor=0f172a&color=7dd3fc)
-![Metasploit](https://img.shields.io/badge/Metasploit-0f172a?style=for-the-badge&labelColor=0f172a&color=7dd3fc)
-![Splunk](https://img.shields.io/badge/Splunk-0f172a?style=for-the-badge&labelColor=0f172a&color=7dd3fc)
-![Nessus](https://img.shields.io/badge/Nessus-0f172a?style=for-the-badge&labelColor=0f172a&color=7dd3fc)
+![Nmap](https://img.shields.io/badge/Nmap-0f172a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN2RkM2ZjIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjQuNSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEiIGZpbGw9IiM3ZGQzZmMiLz48cGF0aCBkPSJNMTIgMTJMMTkgNSIvPjwvc3ZnPg%3D%3D&logoColor=7dd3fc)
+![Metasploit](https://img.shields.io/badge/Metasploit-0f172a?style=for-the-badge&logo=metasploit&logoColor=7dd3fc)
+![Splunk](https://img.shields.io/badge/Splunk-0f172a?style=for-the-badge&logo=splunk&logoColor=7dd3fc)
+![Nessus](https://img.shields.io/badge/Nessus-0f172a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN2RkM2ZjIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI%2BPHBhdGggZD0iTTEyIDJsOCAzdjZjMCA1LTMuNSA5LTggMTEtNC41LTItOC02LTgtMTFWNXoiLz48cGF0aCBkPSJNOC41IDEybDIuNSAyLjVMMTUuNSA5LjUiLz48L3N2Zz4%3D&logoColor=7dd3fc)
 
 ---
 
